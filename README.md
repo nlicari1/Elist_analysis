@@ -1,9 +1,9 @@
 # Contents
-- [Company Background](#Background)
+- [Company Background](#Company-Background)
 - [Executive Summary](#Executive-Summary)
 - [Summary of Insights](#Summary-of-Insights)
 - [Recommendations](#Recommendations)   
-# Background
+# Company Background
 Sales trends analysis for e-commerce company.
 
 
