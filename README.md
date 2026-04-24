@@ -15,7 +15,7 @@
 * Customer Behavior
   * Evaluates how the customers engage with the platform, including loyalty program, and purchase frequency.
 * Product Health
-  * Gauges product success and quality throught sales contributionand refund rates by product and category.
+  * Gauges product success and quality throught sales contribution and refund rates by product and category.
 * Operational Efficiency
   * Analyzes fulfillment performance across regions, focusing on delivery time and logistical consistency.
   
