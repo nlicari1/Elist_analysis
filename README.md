@@ -22,6 +22,7 @@
 * Operational Efficiency
 
   Analyzes fulfillment performance across regions, focusing on delivery time and logistical consistency.
+
   
 The ERD for the data can be found [here](https://github.com/nlicari1/Elist_analysis/blob/main/ERD_elist.png)
 # Executive Summary
