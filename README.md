@@ -44,12 +44,26 @@ Overall, while Elist maintains strong revenue drivers across products and region
 # Summary of Insights
 
 ## Revenue Performance
+  ###
+
+  [![alt text](Insights/year_growth_charts.PNG)](#)
 
 ## Customer Behavior
+  ###
+  <picture>
+    <img src="Insights/loyalty_program_contribution.PNG" alt="Alt Text">
+  </picture>
+  ![](https://github.com/nlicari1/Elist_Analysis/blob/main/Insights/loyalty_program_contribution.PNG)
 
 ## Product Health
-
+  ###
+  
+  ![](https://github.com/nlicari1/Elist_Analysis/blob/main/Insights/refund_by_product.PNG)
+  ![](https://github.com/nlicari1/Elist_Analysis/blob/main/Insights/apple_products_refund.PNG)
+  
 ## Operational Efficiency 
+  ### North America Remains Elist's Primary Revenue-Driving Market
+  ![](https://github.com/nlicari1/Elist_Analysis/blob/main/Insights/total_sales_region.PNG)
 
 # Recommendations
 
