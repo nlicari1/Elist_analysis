@@ -44,26 +44,44 @@ Overall, while Elist maintains strong revenue drivers across products and region
 # Summary of Insights
 
 ## Revenue Performance
-  ###
-
-  [![alt text](Insights/year_growth_charts.PNG)](#)
+  ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
+  <picture>
+    <img src="Insights/monthly_sales_trend.PNG" alt="Alt Text">
+  </picture>
+  
+  ### Revenue Peaked in 2020 While Order Volume Shifted in 2021
+  <picture>
+    <img src="Insights/year_growth_charts.PNG" alt="Alt Text">
+  </picture>
+  
 
 ## Customer Behavior
-  ###
+  ### Non-Loyalty Customers Drive Revenue While Loyalty Supports Retention
   <picture>
     <img src="Insights/loyalty_program_contribution.PNG" alt="Alt Text">
   </picture>
-  ![](https://github.com/nlicari1/Elist_Analysis/blob/main/Insights/loyalty_program_contribution.PNG)
 
 ## Product Health
-  ###
+  ### Gaming Monitors Lead Sales Volume While Laptops Drive Higher-Value Purchases  
+  <picture>
+    <img src="Insights/yearly_sales_trend.PNG" alt="Alt Text">
+  </picture>
   
-  ![](https://github.com/nlicari1/Elist_Analysis/blob/main/Insights/refund_by_product.PNG)
-  ![](https://github.com/nlicari1/Elist_Analysis/blob/main/Insights/apple_products_refund.PNG)
+  ### Refund by Product
+  <picture>
+    <img src="Insights/refund_by_product.PNG" alt="Alt Text">
+  </picture>
+  
+  ### Apple Refund
+  <picture>
+    <img src="Insights/apple_products_refund.PNG" alt="Alt Text">
+  </picture>
   
 ## Operational Efficiency 
   ### North America Remains Elist's Primary Revenue-Driving Market
-  ![](https://github.com/nlicari1/Elist_Analysis/blob/main/Insights/total_sales_region.PNG)
+  <picture>
+    <img src="Insights/total_sales_region.PNG" alt="Alt Text">
+  </picture>
 
 # Recommendations
 
