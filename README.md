@@ -58,13 +58,18 @@ Overall, while Elist maintains strong revenue drivers across products and region
 ## Customer Behavior
   ### Non-Loyalty Customers Drive Revenue While Loyalty Supports Retention
   <picture>
-    <img src="Insights/loyalty_program_contribution.PNG" alt="Alt Text">
+    <img src="Insights/loyalty_contributions.PNG" alt="Alt Text">
   </picture>
 
 ## Product Health
   ### Gaming Monitors Lead Sales Volume While Laptops Drive Higher-Value Purchases  
   <picture>
     <img src="Insights/yearly_sales_trend.PNG" alt="Alt Text">
+  </picture>
+  
+  ### Macbook Air and ThinkPad Generate the Highest Average Order Value
+  <picture>
+    <img src="Insights/aov_across_products.PNG" alt="Alt Text">
   </picture>
   
   ### Refund by Product
