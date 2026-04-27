@@ -44,16 +44,16 @@ Overall, while Elist maintains strong revenue drivers across products and region
 # Summary of Insights
 
 ## Revenue Performance
-  ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
-  <picture>
-    <img src="Insights/monthly_sales_trend.PNG" alt="Alt Text">
-  </picture>
   
   ### Revenue Peaked in 2020 While Order Volume Shifted in 2021
   <picture>
     <img src="Insights/year_growth_charts.PNG" alt="Alt Text">
   </picture>
   
+  ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
+  <picture>
+    <img src="Insights/monthly_sales_trend.PNG" alt="Alt Text">
+  </picture>
 
 ## Customer Behavior
   ### Non-Loyalty Customers Drive Revenue While Loyalty Supports Retention
@@ -74,10 +74,10 @@ Overall, while Elist maintains strong revenue drivers across products and region
   
   ### Refund by Product
   <picture>
-    <img src="Insights/refund_by_product.PNG" alt="Alt Text">
+    <img src="Insights/refund_by_products.PNG" alt="Alt Text">
   </picture>
   
-  ### Apple Refund
+  ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
   <picture>
     <img src="Insights/apple_products_refund.PNG" alt="Alt Text">
   </picture>
