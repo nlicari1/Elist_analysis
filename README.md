@@ -64,28 +64,28 @@ Overall, while Elist maintains strong revenue drivers across products and region
 ## Product Health
   ### Gaming Monitors Lead Sales Volume While Laptops Drive Higher-Value Purchases  
   <picture>
-    <img src="Insights/yearly_sales_trend.PNG" height="480 alt="Alt Text">
+    <img src="Insights/yearly_sales_trend.PNG" max-width:100% height="480 alt="Alt Text">
   </picture>
   
   ### Macbook Air and ThinkPad Generate the Highest Average Order Value
   <picture>
-    <img src="Insights/aov_across_products.PNG" height="500" alt="Alt Text">
+    <img src="Insights/aov_across_products.PNG" max-width:100% height="550" alt="Alt Text">
   </picture>
   
   ### Refund by Product
   <picture>
-    <img src="Insights/refund_by_products.PNG" alt="Alt Text">
+    <img src="Insights/refund_by_products.PNG" max-width:100% height="375" alt="Alt Text">
   </picture>
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
   <picture>
-    <img src="Insights/apple_products_refund.PNG" alt="Alt Text">
+    <img src="Insights/apple_products_refund.PNG" max-width:100% height="380" alt="Alt Text">
   </picture>
   
 ## Operational Efficiency 
   ### North America Remains Elist's Primary Revenue-Driving Market
   <picture>
-    <img src="Insights/total_sales_region.PNG" alt="Alt Text">
+    <img src="Insights/total_sales_region.PNG" max-width:100% height="380" alt="Alt Text">
   </picture>
 
 # Recommendations
