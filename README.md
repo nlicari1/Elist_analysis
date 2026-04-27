@@ -43,6 +43,13 @@ Overall, while Elist maintains strong revenue drivers across products and region
 
 # Summary of Insights
 
+## Revenue Performance
+
+## Customer Behavior
+
+## Product Health
+
+## Operational Efficiency 
 
 # Recommendations
 
