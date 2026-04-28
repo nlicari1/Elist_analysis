@@ -50,7 +50,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/year_growth_charts.PNG" max-width:100% height="220" alt="Alt Text">
   </picture>
 
-  Reveune increased significantly from 2019 to 2020, growing from $3.8M with an AOV of **$230** to **$10.1M** with an AOV of **$300**. While 2020 was Elist's strongest year for both total sales and average order value, 2021 recorded the higher order count of over **35k** orders. Displaying a shift from customer spending to transaction volume. However, all three metrics declined in 2022, suggesting weaker purchasing activity compared to other years.
+  Reveune increased significantly from 2019 to 2020, growing from **$3.8M** with an AOV of **$230** to **$10.1M** with an AOV of **$300**. While 2020 was Elist's strongest year for both total sales and average order value, 2021 recorded the higher order count of over **35k** orders. Displaying a shift from customer spending to transaction volume. However, all three metrics declined in 2022, suggesting weaker purchasing activity compared to other years.
   
   
   ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
@@ -81,7 +81,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/aov_across_products.png" max-width:100% height="350" alt="Alt Text">
   </picture>
   
-  The 27in 4k Gaming Monitor achieved the highest total sales, peaking at **$366k** in 2020 and producing a total of **$9.8M** across all years. In contrast, the MacBook Air Laptop and ThinkPad Laptop produced a highest overall AOV across all years of **$1,588**and **$1,100**, respectively. This indicates that Elist relies on both volume-driven products and high-value products, requiring different pricing, inventory, and marketing strategies across product categories.
+  The 27in 4k Gaming Monitor achieved the highest total sales, peaking at **$366k** in 2020 and producing a total of **$9.8M** across all years. In contrast, the MacBook Air Laptop and ThinkPad Laptop produced a highest overall AOV across all years of **$1,588** and **$1,100**, respectively. This indicates that Elist relies on both volume-driven products and high-value products, requiring different pricing, inventory, and marketing strategies across product categories.
   
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
