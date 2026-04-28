@@ -28,7 +28,7 @@
 The **ERD** for the data can be found [here](https://github.com/nlicari1/Elist_analysis/blob/main/ERD_elist.png)
 
 # Executive Summary
-Revenue in 2020 peak at **$10.1M**, with the highest average order value being **$300**, making this Elist's strongest financial year. While 2021 recorded a higher order count of over **35k** orders, the lower AOV suggests a shift from high-value purchases to higher transaction volume rather than stronger customer spending.
+Revenue in 2020 peak at **$10.1M**, with the highest average order value being **$300**, making this Elist's strongest financial year. While 2021 recorded a higher order count of over **36k** orders, the lower AOV suggests a shift from high-value purchases to higher transaction volume rather than stronger customer spending.
 
 Non-Loyalty members generated highest total sales at **$17.1M** compared to **$10.8M** for loyalty members, making them the primary driver for revenue. However, loyalty members outperformed non-loyalty members in 2021 and 2022, suggesting that while customer gain drives short-term sales, the loyalty program supports long-term retention.
 
@@ -49,11 +49,18 @@ Overall, while Elist maintains strong revenue drivers across products and region
   <picture>
     <img src="Insights/year_growth_charts.PNG" max-width:100% height="220" alt="Alt Text">
   </picture>
+
+  Reveune significantly increased from 2019-2020, at $3.8M with and AOV of $230 to 10.1M with and AOV of $300. While 2020 was our peak year with sales and average order value, 2021 recorded a higher order count of 36k orders. Displaying a shift from customer spending to transaction volume.
+    However, all three metrics decline in 2022, suggesting weaker purchasing activity compared to other years.
+  
   
   ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
   <picture>
     <img src="Insights/monthly_sales_trend.PNG" max-width:100% height="500" alt="Alt Text">
   </picture>
+  
+  The 2020 was the highest performing year peaking at $1.2M in December. Then dropping significantly to $700k in 2021 until Feburary until picking up in Septemeber. The middle of the year seems to be stablizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
+
 
 ## Customer Behavior
   ### Non-Loyalty Customers Drive Revenue While Loyalty Supports Retention
@@ -61,33 +68,44 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/loyalty_contributions.PNG" max-width:100% height="400" alt="Alt Text">
   </picture>
 
+  In 2019 and 2020 loyalty members seem to have underperformed generating less sales than non-loyalty members. However in recent years, the loyalty program seems to have increased purchases having more purchases than their counter part. This suggests that the loyalty program supports stronger long-term retention.
+  
+
 ## Product Health
   ### Gaming Monitors Lead Sales Volume While Laptops Drive Higher-Value Purchases  
   <picture>
     <img src="Insights/yearly_sales_trend.PNG" max-width:100% height="480 alt="Alt Text">
   </picture>
   
-  ### Macbook Air and ThinkPad Generate the Highest Average Order Value
+  #### Macbook Air and ThinkPad Generate the Highest Average Order Value
   <picture>
-    <img src="Insights/aov_across_products.png" max-width:100% height="550" alt="Alt Text">
+    <img src="Insights/aov_across_products.png" max-width:100% height="350" alt="Alt Text">
   </picture>
+  
+  The 27in 4k Gaming Monitor had the highest revenue peak in 2020 at $366k, generating a total of $9.8M across all years. While products like the MacBook Air Laptop and ThinkPad Laptop produced a total average order value of $1,588 and $1,100. Indicating that both volume-driven and high-value products are relied on for the company.
+  
   
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
   <picture>
     <img src="Insights/apple_products_refund.PNG" max-width:100% height="380" alt="Alt Text">
   </picture>
-  
+
   ### Refund by Product
   <picture>
     <img src="Insights/refund_by_products.PNG" max-width:100% height="200" alt="Alt Text">
   </picture>
+  
+  While the MacBook Air Laptop delivers the highest AOV, it has the highest refund rate across all Apple products at 18%. Laptops show to produce the highest refund rates across all products, with the ThinkPad Laptop having 17% between 2019-2020. In 2021, all products improved their refund rate while the laptops continued to have the highest refund rates. An issue was found for 2022, showing all products generating a refund rate of 0%. This suggests a problem with the data and would need further investigating.
+  
   
 ## Operational Efficiency 
   ### North America Remains Elist's Primary Revenue-Driving Market
   <picture>
     <img src="Insights/total_sales_region.PNG" max-width:100% height="380" alt="Alt Text">
   </picture>
+
+  North America shows to be Elist's strongest market, generating $14.5M in total sales, peaking in 2020 at $5.3M. While EMEA produced $8.2M, Elist's main investment strategy should be in North America.
 
 # Recommendations
 
