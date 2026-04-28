@@ -106,8 +106,8 @@ Overall, while Elist maintains strong revenue drivers across products and region
   North America shows to be Elist's strongest market, generating **$14.5M** in total sales and peaking at **$5.3M** in 2020. In comparison, EMEA produced **$8.2M**, making North America the company's primary revenue-driving region. This confirms that continued investment into North America should remain a strategis priority while identifying opportunties for expansion in other regions.
 
 # Recommendations
-  * The company should review the drivers behind 2020's peak performance and compare them against the 2022 decline to identify opportunities for revenue recovery and stronger year-round customer retention.
 ## Revenue Performance
+  * The company should review the drivers behind 2020's peak performance and compare them against the 2022 decline to identify opportunities for revenue recovery and stronger year-round customer retention.
   * Elist should strength loyalty conversion strategies by encouraging first-time customers to join the program through incentives, earlier in their purhcasing history.
 ## Customer Behavior
   * Elist should continue supporting high-volume products like gaming monitors while optimizing premium product strategies for laptops through targeted marketing and pricing decisions.
